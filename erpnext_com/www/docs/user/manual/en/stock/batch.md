@@ -8,7 +8,7 @@ This is done based on the Item. If the Item is batched, then a Batch number must
 
 ### Item Setup
 
-To set item as a batch item, "Has Batch No" field should be checked in the Item master.
+To set item as a batch item, "Has Batch No" field should be checked in the Item master. (Make sure ‘Maintain Stock’ is checked for that  Item. It will make ‘Serial numbers and Batches’ section appear below)
 
 If you want automatic batch creation at the time of Purchase Receipt, you must check "Create New Batches Automatically"
 
